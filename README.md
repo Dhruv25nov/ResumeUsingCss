@@ -1,2 +1,2 @@
-# MyCSSResume
+# ResumeUsingCss
 Created using Css
